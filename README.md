@@ -1,2 +1,1 @@
-# git-test
-test code yes
+# blog-preview-card
